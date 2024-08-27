@@ -2,7 +2,7 @@
 
 This pack enhances Minecraft's visual experience by changing the in-game item and block models.
 
-If you encounter any issues, please visit the [issue tracker](#) under the External Resources panel.
+If you encounter any issues, please visit the [issue tracker](https://github.com/darkutomofficial/Enhanced-3D-Models/issues) under the External Resources panel.
 
 [Click here to view older versions (CurseForge)](https://www.curseforge.com/minecraft/texture-packs/enhanced-3d-models)
 
@@ -10,7 +10,7 @@ If you encounter any issues, please visit the [issue tracker](#) under the Exter
 
 ### Description
 
-Are you looking for a resource pack that makes Minecraft look more... _realistic_?
+Are you looking for a resource pack that makes Minecraft look more *realistic*?
 
 Well, you're in luck! You’ve just found a 3D realistic resource pack!
 
@@ -25,9 +25,9 @@ Remember to follow for notifications on future updates!
 
 ### Credits
 
-- **Pack Created/Coded/Designed by:** Ihunts
-- **3D Totem Of Undying:** Created by former PMC user, Wisampah, with permission.
-- **Inspiration:** Mr. Xuiryus and his tutorials
-- **Special Thanks:** ScottMiser (PMC) for helping create the new name!
+- **Pack Created/Coded/Designed by Ihunts @ Darkutom.**
+- **3D Totem Of Undying Created by former PMC user, Wisampah, with permission.**
+- **Inspiration from Mr. Xuiryus and his tutorials**
+- **Special Thanks ScottMiser (PMC) for helping create the new name!**
 
 Models and textures were created using BlockBench.
