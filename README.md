@@ -20,7 +20,7 @@ This Pack supports Versions from 1.15.1, up to the latest version of Minecraft! 
 Remember to follow me for Notifications on Future Updates!
 
 ### Notes:
-#### This pack is only available for 1.15.1, to 1.20.4. Optifine is NOT required, however it is *recommended.*
+#### This pack is only available for 1.15.1, to 1.21. Optifine is NOT required, however it is *recommended.*
 
 
 ### Credits:
